@@ -11,11 +11,11 @@ Se debe incluir el arSe debe incluir el archivo .gitignore en un repositorio lo 
 ## ¿Cómo configuraría el archivo .gitignore?
 
 Para configurar un archivo .gitignore en un repositorio de Git, puedes: 
--Abrir un editor de texto o de código
--Navegar al directorio raíz del repositorio
--Crear un archivo de texto llamado .gitignore
--Guardar el archivo sin extensión
--Especificar los archivos y directorios que quieres que Git ignore copiando lo que nos brinda gitignore.io segun el lenguaje que estemos usando
+- Abrir un editor de texto o de código
+- Navegar al directorio raíz del repositorio
+- Crear un archivo de texto llamado .gitignore
+- Guardar el archivo sin extensión
+- Especificar los archivos y directorios que quieres que Git ignore copiando lo que nos brinda gitignore.io segun el lenguaje que estemos usando
 
 ## Punto 3) g-
 Los resultados son iguales ya que en el apartado 3 se muestra la direccion de memoria de la variable y en el 2 se muestra la direccion almacenada por el puntero, que es la misma ya que el puntero apunta a la variable
