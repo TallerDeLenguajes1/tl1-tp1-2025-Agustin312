@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <string.h>
 
-int Cuadrado(int num);
-void CuadradoV(int num);
+int Cuadrado(int num);//Considero que la variable es solo tipo entero
+void CuadradoV(int num);//Considero que la variable es solo tipo entero
 void ImpDireccionValor(int num); //Considero que la variable es solo tipo entero
-void Invertir(int a, int b);
-void orden(int a,int b);
+void Invertir(int a, int b);//Considero que la variable es solo tipo entero
+void orden(int a,int b);//Considero que la variable es solo tipo entero
 
 int main()
 {   
