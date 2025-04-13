@@ -1,0 +1,1 @@
+Para ignorar un tipo de archivo a la hora de trabajar con git se debe crear un archivo llamado .gitignore y copiar dentro de el el texto que nos de la pagina https://www.gitignore.io/ según el lenguaje que estemos usando
